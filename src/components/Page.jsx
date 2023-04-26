@@ -278,8 +278,8 @@ const Page = () => {
                 voluptate velit esse quam nihil molestiae consequatur, vel
                 illum.”
               </p>
-              <h2 className="mt-3 font-bold">alex bern</h2>
-              <p className="text-gray-400">ceo by pi</p>
+              <h2 className="mt-3 font-bold">Alex Bern</h2>
+              <p className="text-gray-400">CEO by NOX</p>
             </div>
           </div>
         </div>
@@ -418,7 +418,7 @@ const Page = () => {
             placeholder="Your email"
             id=""
           />
-          <button className="py-3 px-5 bg-white font-bold" type="submit">
+          <button className="py-3 px-5 bg-white rounded-r-lg font-bold" type="submit">
             Send
           </button>
         </div>
