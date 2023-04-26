@@ -317,12 +317,11 @@ const Page = () => {
             </div>
             <div className="mb-20">
               <p className=" text-gray-400">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-                unde deleniti non ipsum a itaque ut
+              Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi.
               </p>
             </div>
             <div className="mb-7">
-              <p>Email address</p>
+              <p className=" text-gray-400">Email address</p>
               <p>ensome@info.co.us</p>
             </div>
             <div className="mb-7">
